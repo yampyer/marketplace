@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_product_height">100dp</dimen>
+    <dimen name="app_bar_image">240dp</dimen>
+    <dimen name="app_bar_height">300dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="container_smallest_margin">4dp</dimen>
+    <dimen name="container_small_margin">8dp</dimen>
+    <dimen name="container_medium_margin">16dp</dimen>
+    <dimen name="container_large_margin">32dp</dimen>
+</resources>

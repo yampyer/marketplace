@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MeliExample</string>
+    <string name="title_activity_product_detail_host">Productos</string>
+    <string name="title_product_detail">Detalle de Producto</string>
+    <string name="free_shipping">Envío gratis</string>
+    <string name="features">Características:</string>
+    <string name="currency_format">$%,.2f</string>
+    <string name="discount_format">%s\%% OFF</string>
+    <plurals name="sold_quantity">
+        <item quantity="one">| %d vendido</item>
+        <item quantity="other">| %d vendidos</item>
+    </plurals>
+    <plurals name="available_quantity">
+        <item quantity="zero">No disponible en el momento</item>
+        <item quantity="one">Última unidad disponible</item>
+        <item quantity="other">%d disponibles</item>
+    </plurals>
+    <string name="showing_results_for">Mostrando %d resultados para: %s</string>
+    <string name="start_looking_for_mercadolibre_products">Empieza a buscar productos por MercadoLibre…</string>
+    <string name="search_hint">Buscar</string>
+</resources>
